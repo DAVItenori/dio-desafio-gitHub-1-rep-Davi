@@ -1,2 +1,7 @@
-# dio-desafio-gitHub-1-rep-Davi
-Desafio de Projeto Git/Github
+# Repositório do Desafio de Projeto Git/Github da Dio
+ - Repositório criado para o Desafio de Projeto. 
+
+
+
+## Links Úteis 
+[Sintase Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
