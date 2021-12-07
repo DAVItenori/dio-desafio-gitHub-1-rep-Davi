@@ -1,0 +1,40 @@
+# GIT INIT > criar pasta .git/ (inicializa "repositório").
+
+-------------------------------------------------------------------------
+## TRACKED / UNTRACKED 
+
+-------------------------------------------------------------------------
+## -UNMODIFIED (Ainda não foi modificado) /*GIT COMPARA O SHA1 dos arquivos. 
+## -MODIFIED (Sofreu modificação)
+## -STAGED ( Arquivos que estão se preparando para fazer parte de outro tipo
+## de agrupamento) 
+
+## /*Remover arquivo retorna ele apara UNTRACKED
+
+
+## -Commit retorna todos os arquivos para Unmodified; 
+
+## CICLO ENTRE ESSES TRÊS ESTÁGIOS. 
+## Primeiro vai para o Staged, quando digita commit retorna para unmodified.
+
+## -------------------------------------------------------------------------
+## -As ações que sua máquina sofre dentro da pasta do projeto
+## não reflete diretamente no GitHub
+
+## - A não ser por comando. 
+
+## git ADD em Untracked e git ADD em arquivo modificado vai para o STAGED.
+
+## COMMIT - MOVER ARQUIVOS QUE ESTAVAM EM STAGED 
+
+## -------------------------------------------------------------------------
+
+## - git status (status do repositório)
+## - git commit - m (commitar arquivo que estão em STAGED)
+
+
+
+
+
+
+
