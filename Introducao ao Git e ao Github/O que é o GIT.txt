@@ -1,0 +1,9 @@
+"O Git é fundamental para garantir uma melhor experiência"
+
+*Maior sistema de versionamento da atualizade. 
+
+Basicamente o Git é um sistema de versionamento, onde
+você cria commits e pode registrar o histórico de modifica
+ções do seu projeto. Geralmente utilizasse o Sha1 para
+aumentar a segurança entre uma versão e outra do projeto. 
+Caso algo der errado é possivel dar "rollback" 

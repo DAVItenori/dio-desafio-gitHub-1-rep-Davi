@@ -1,0 +1,38 @@
+Principais linhas de comandos utilizadas no GITBASH 
+Aqui estão alguns dos principais comandos aprendidos: 
+
+## Git add ( adicionar arquivos solicitados ao ambiente de 
+stage ( que é o ambiente antes de ser commitado ).
+
+"Uma forma de dizer para o git que você de seja que as
+modificações daquele arquivos sejam gravadas na proxima
+remessa. 
+
+git add . (O ponto representa todos os arquivos na pasta). 
+
+
+##Git Commit  
+Comando responsável por reenviar o projeto para o Untracked
+gravando todas as modificações. 
+
+"Criar um snapshot do estado atual do projeto". 
+
+git commit -m "Descrição das atualizações do projeto"
+
+-m >> é uma flag que aponta para a mensagem da descrição. 
+
+##Git Push 
+Comando responsável por subir as modificações no nosso 
+repositório remoto. 
+
+##Git Status
+Quais arquivos estão sendo "rastreados" pelo git e quais 
+modificações ja foram enviadas para o stage. 
+Muito utilizado em caso de dúvidas. 
+
+##Git branch 
+-Verificar todas as Filiais (Branches no repositório) 
+-r branchs presentes no repositório 
+criar uma nova branch > git branch <branch_name> 
+
+

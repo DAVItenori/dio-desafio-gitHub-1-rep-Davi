@@ -1,0 +1,5 @@
+GitHub : 
+O github seria apenas uma central de repositório das 
+muitas que existem atualmente. 
+Ela é responsável por guardar os códigos e projetos na nuvem
+e permitir e interação entre usuários . 
