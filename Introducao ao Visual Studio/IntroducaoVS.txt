@@ -1,0 +1,55 @@
+##Introdução ao Visual Studio Code
+
+Basicamente uma visão geral de como baixar e instalar
+o ambiente de programação. 
+
+Iniciar um novo Projeto e primeiros passos. 
+--------------------------------------------------------
+
+Console.WriteLine("Hello World); 
+
+Depuração: 
+
+var a = "Hello";
+var b = "World";
+
+Console.WriteLine(a, b); 
+
+/Depurar/QuickWatch: Valores das variaveis. 
+
+--------------------------------------------------------
+
+Integração Git / GitHub
+
+Inicialização do programa, Clonar repositório. 
+
+Projeto ja criado: 
+Git/CriarRepGit/ 
+
+Ajustar configurações >> Criar e enviar pro PUSH
+
+---------------------------------------------------------
+
+Testes -- 
+Criar novo projeto dentro da mesma solução
+criação metodo test ( algo bem parecido com uma struct)
+
+[TestMethod()]
+
+public void SomaTest()
+
+{
+
+//arrange > Inicializar objetos e definir o valr dos dados
+var x = 5;
+var y = 5;
+var esperado = 10;
+var teste = new Teste (); 
+
+//act > Invoca o método sendo testado com os parametros organizados
+var resultado = teste.Soma(a, b ); 
+
+//assert >Verifica se a ação do método em teste se comporta igual o esperado
+Assert.AreEqual1(esperado, result); 
+
+Testes = clicar em testes e testar tudo. 
