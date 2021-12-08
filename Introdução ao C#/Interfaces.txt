@@ -1,0 +1,112 @@
+ESTRUTURAS - INTERFACE 
+
+--Classe base que serve de molde para outras. 
+
+** uma classe que implementa uma interface deve imple.
+todos os membros. 
+
+interface IPessoa {
+	void Nome(string nome);
+	void Idade(int Idade);
+}
+
+class Pessoa: IPessoa {
+	public string nome;
+	public int idade;
+
+	void IPessoa.Nome(string nome){
+		this.nome = nome;
+
+}
+	void IPessoa.Idade (int idade) {
+		this.idade = idade; 
+}
+
+}
+----------------------------------------------------
+
+interface IAnimal {
+	void Nome(string nome);
+	void donoAnimal (string donoAnimal);
+	void idade(int idade); 
+
+}
+
+class Animal: IAnimal {
+	public string nome {get; set};
+	public string donoAnimal {get; set};
+	public int idade {get; set};
+
+		void IAnimal.nome(string nome){
+			this.nome = nome;
+}
+		void IAnimal.donoAnimal(string donoAnimal){
+			this.donoAnimal = donoAnimal; 
+} 
+
+		void  IAnimal.idade(int idade){
+			this.idade = idade;
+
+}
+}
+
+----------Completo usando namespace, interface e a classe----------------
+namespace Interface {
+	
+		**interface IAnimal{
+			void nome(string nome);
+			void idade(int idade);
+			void especie(string especie);
+			void nomeDono(string nomeDono);
+
+} 
+			class Animal:IAnimal {
+				public string nome {get; set;}
+				public int idade {get; set;}
+				public string especie {get; set;}
+				public string nomeDono {get; set;} 
+
+
+					void Ianimal.nome(string nome) {
+						this.nome = nome; 
+}
+						void IAnimal.Idade (int idade) {
+							this.idade = idade;
+						
+}
+							void IAnimal.especie (string especie) {
+								this.especie = especie;			
+}
+
+							void IAnimal.nomeDono (string nomeDono) {
+								this.nomeDono = nomeDono;
+}	
+}
+
+
+
+
+} 
+
+*O USO DO 'INTERFACE' TE PERMITE NÃO ESQUECER DOS ATRIBUTOS DEFINIDOS NA CLASSE. 
+AGORA JA PODEMOS INSTANCIAR ELA. 
+
+****Using Interface 
+
+	namespace Projeto {
+			class Animais {
+		static void main (String[] args) {
+			
+
+		Animal Animal = new Animal (); 
+			Animal.nome = 'Fred';
+			Animal.idade = 20;
+			Animal.especie = 'Pássaro';
+			Animal.nomeDono = 'Davi'; 		
+
+	}		
+
+}
+
+
+} 
