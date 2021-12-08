@@ -67,18 +67,18 @@ namespace Interface {
 				public string nomeDono {get; set;} 
 
 
-					void Ianimal.nome(string nome) {
+					void Animal.nome(string nome) {
 						this.nome = nome; 
 }
-						void IAnimal.Idade (int idade) {
+						void Animal.Idade (int idade) {
 							this.idade = idade;
 						
 }
-							void IAnimal.especie (string especie) {
+							void Animal.especie (string especie) {
 								this.especie = especie;			
 }
 
-							void IAnimal.nomeDono (string nomeDono) {
+							void Animal.nomeDono (string nomeDono) {
 								this.nomeDono = nomeDono;
 }	
 }
@@ -110,3 +110,118 @@ AGORA JA PODEMOS INSTANCIAR ELA.
 
 
 } 
+
+
+
+--------------------------------------------------------------------------------------
+
+	namespace ProjetoI {
+		interface IAnimal {
+			void nome (String nome);
+			void idade (int idade);
+			void nomeDono (string nomeDono);
+  
+
+}
+
+			class Animal: IAnimal {
+				public string nome {get; set;};
+				public int idade {get; set;};
+				public string nomeDono {get; set;};
+ 	
+
+				void Animal.nome (string nome) {
+					this.nome = nome;
+} 
+				void Animal.idade (int idade) {
+					this.idade = idade; 
+} 		
+				void Animal.nomeDono (string nomeDono){
+					this.nomeDono = nomeDono; 
+}
+
+}
+
+-------------------------------------------------------------------------------------
+using IAnimal 
+	namespace Projeto {
+		class Geral {
+			static void main (String[] args) {
+			
+			Animal Animal = new Animal(); 
+			Animal.nome = " RoRo "; 
+			Animal.idade = 10;
+			Animal.nomeDono = "Jucie"; 
+			
+} 
+
+}
+
+
+}
+
+---------------------------------------------------------------------------------------
+Ultima vez: 
+		namespace ProjetoI {
+
+			interface IAnimal{
+				void nome (string nome);
+				void idadeAnimal (int idadeAnimal);
+				void nomeDono(string nomeDono);
+				void especie (string especie);
+
+}
+				class Animal: IAnimal () {
+					public String nome {get; set;};
+					public int idadeAnimal {get; set;};
+					public string nomeDono {get; set;};
+					public string especie {get; set;};
+
+
+					*void Animal.nome(String nome) {
+					this.nome = nome; 
+
+					*void Animal.idadeAnimal(int idadeAnimal) {
+					this.idadeAnimal = idadeAnimal; 
+					
+								
+} 
+					*void Animal.nomeDono (String nomeDono) {
+					this.nomeDono = nomeDono; 
+}
+					*void Animal.especie (String especie) {
+					this.especie = especie; 
+
+}
+}
+				
+
+}
+
+} 
+------------------------Instanciando a Classe pela ultima vez -----------------------------------------------------------------
+Using IAnimal 
+
+	namespace projetoGlobal {
+			class geral {
+				static void main (String [] args ) {
+
+				Animal Animal = new Animal (); {
+				Animal.nome = "Chocolate"
+				Animal.idade = 10;
+				Animal.nomeDono = "Dona Lourdes";
+				Animal.especie = "Cachorro"; 
+
+
+}
+
+
+}
+
+
+
+}
+
+
+
+}
