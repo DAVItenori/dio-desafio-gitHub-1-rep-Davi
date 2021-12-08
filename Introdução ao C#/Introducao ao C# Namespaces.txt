@@ -1,0 +1,77 @@
+Principais Conceitos do C# e .NET ; 
+
+C# > Linguagem de Programação orientada a Objetos 
+inspirada em JAVA
+
+.NET > Framework criado pela Microsoft que permite a 
+comunicação entre várias linguagens que tem uma infra
+estrutura em comum(CLI). 
+
+
+
+NAMESPACE - UTILIZADOS PARA ORGANIZAR A CLASSE
+número indeterminado
+
+
+namespace Csharp {
+	Console " > classe namespace System
+ *System.Console  > Acessar a classe
+
+}
+
+
+ou
+
+
+
+using *System (retira a necessidade de citar dentro da classe
+
+namespace Csharp {
+	*Console.
+
+} 
+
+
+não posso ter duas classes iguais dentro do namespace
+
+
+namespace Primeiro {
+
+	class Classe {
+
+}
+
+}
+
+namespace Segundo {
+
+	class Classe {
+
+}
+
+}
+
+--------------------------------------------------
+referenciar essas classes :
+
+using System;
+using *Primeiro;
+
+namespace CSharp {
+	class Program {
+
+		static void Main(string[] args) {
+
+
+	(Primeiro)  *var classe = new Classe();
+	(Segundo)   *var classe = Segundo.Classe(); 
+			Console.WriteLine("Hello World");
+
+}
+
+
+}
+
+
+
+}

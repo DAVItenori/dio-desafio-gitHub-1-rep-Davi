@@ -1,0 +1,47 @@
+Aula de C# - Classes 
+
+uma classe é uma abstração de algo real; 
+ela pode conter campos, propriedades, métodos e eventos;
+todos esses são denominados membros. 
+
+namespace Projeto1 {
+	class Animal {
+		public string Nome {get; set;}
+		public int Idade {get; set;}
+		public string Especie {get; set;}
+}
+
+}
+
+
+ao instanciar uma classe eu crio um OBJETO, e nesse
+objeto podem ser criados os valores de acordo com os
+campos da classe. 
+
+using Projeto1****
+namespace ProjetoAnimais {
+
+		class Animais {
+
+		static void main (String[]args) {
+
+		Animal animal1 = new Animal ();
+		animal1.Nome = "Marley";
+		animal1.Idade = 5;
+		animal1.Especie = "Cachorro"; 
+		
+
+		Animal animal2 = new Animal();****
+		
+		animal2.Nome = "Nemo";
+		animal2.Idade = 10;
+		animal2.Especie = "Peixe"
+	
+
+		
+}
+		 
+}
+
+} 
+
