@@ -1,6 +1,6 @@
 # Repositório do Desafio de Projeto Git/Github da Dio ;)
  - Repositório criado para o Desafio de Projeto. 
- - Algumas linguagens importantes: C#, Javascript, SQL, .NET. 
+ - Algumas linguagens importantes: C#, VSCode, SQL, .NET. 
 
 
 ## Links Úteis :)
