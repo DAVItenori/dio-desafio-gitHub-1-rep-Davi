@@ -1,6 +1,6 @@
-##Olá, tudo bem ? 
+## Olá, tudo bem ? 
 
-###Bom, aqui estão alguns dos projetos trabalhados durante
+### Bom, aqui estão alguns dos projetos trabalhados durante
 o curso. 
 
-###é provavel que estão em constantes commits; 
+### é provavel que estão em constantes commits; 
