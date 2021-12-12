@@ -1,0 +1,155 @@
+.NET > 
+
+Passado, presente e futuro: 
+
+decada de 70 - microsoft - bill Gates 
+
+Basic;; 
+
+decada de 80 - parceria IBM
+Sistema operacional - DOS 
+
+decada de 90 final - IDES E runtimes
+ferramentas de desenvolvimento 
+C++ 
+J++ (Java) 
+Visual Basic 5 
+
+decada 00 
+Visual Studio 6 
+c++ 6 
+j++ 6 
+
+//runtime próprio 
+
+99 - Scott Guthrie ferramente web
+com java ASP+ > ASP Next > ASPX
+
+Jason Zander > common runtime para VB
+e C++ (CLR) 
+
+
+Java ia muito bem // Sun M. fez um acordo
+para a Microsoft nao mexer com Java
+
+Anders Hejlsberg >> C#
+
+2000 - .NET  (NEXT GENERATION WINDOWS SERVICES)
+não se sabe ao certo o pq do nome. 
+
+2001 - Miguel de Icaza começa a trabalhar 
+projeto mono, reimplementação blac box do .NET
+open source e multiplataforma.
+
+2002- Visual studio.NET com C#  
+22 linguagens 1 plataforma: 
+c#
+c++
+vb.net
+j#.net
+
+2003 - .NET 1.1 Visual Studio 2003 
+Cada codigo com seu compilador transformando
+em uma linguagem intermediária. 
+
+-- Common Language Infrastructure 
+
+2005 - .NET 2.0 com C# VS 2005 
+
+2007- .NET 3.5 /  C# / Silverlight
+WPF / WCF 
+
+começo atuação ASP.NET MVC 
+começa a se falar em Windows Azure 
+
+2010 - .NET 4 / C# / V.S 2010 / F#
+
+Windows Azure 
+
+Anders Hejlsberg começa a trabalhar 
+Typescript. 
+
+2011 - Miguel de Icaza inicia Xamarin
+basicamente ele desenvolvia em C# aplicat.
+que rodam em Android e iOS
+
+2012 - Lançamento .NET 4.5 /C# /V.S 2012
+LANÇAMENTO TYperscript 
+
+2013 - Lançamento .NET 4.5.1 Visual Studio 2013
+
+novo compilador para C# e VB.NET 
+Roslyn 
+
+tudo ainda muito Windows 
+
+2014 - Satya Nadella se torna CEO 
+da Microsoft e direciona o foco
+da empresa para cloud. 
+
+Criação do .NET Foundation 
+para gestão de projetos open source
+
+W Azure > M Azure 
+
+É introduzido o conceito do ASP.NET V NEXT
+
+2015 - Lançamento do .NET 4.6 com C# 6.0 
+Visual Studio 2015 
+lançamento do Visual Studio Code 
+
+2016 - Microsoft adquire a Xamarin 
+e adiciona o produto como parte de sua 
+stack .NET e projutos open source. 
+
+VS for MAC 
+
+Lançamento OFICIAL .NET Core 1.0 - 
+totalmente novo, open source e multi
+plataforma. 
+
+2017 - Lançamento .NET Framework 4.7 
+com C# VS 2017 
+
+.NET Core 2.0 com C# multiplataforma 
+
+2020 .NET Framework está pronto 4.8 
+de deixa de ser evoluído 
+WCF e ASP.NET Webforms 
+previsto .NET 5 
+
+.NET Core 3.0 > .NET 5
+--------------------------------------------------------------
+Ideia principal do .NET > Diversas linguagens
+de desenvolvimento funcionando em um mesmo produto. 
+
+Infraestrutura para o desenvolvimento de
+software criada pela Microsoft
+
+Uma aplicação .NET é desenvolvida para e 
+roda em uma das seguintes implementações do .NET: 
+
+- .NET Core
+- .NET Framework
+-  Mono
+-  UWP /Xbox/Iot 
+
+----ESTRUTURA DE PROGRAMA .NET ------
+
+-PROGRAMAS
+-NAMESPACES
+-TIPOS
+-MEMBROS
+-ASSEMBLIES
+
+PROGRAMAS DECLARAM TIPOS, QUE CONTEM MEMBROS E PODEM SER ORGANIZADOS
+EM NAMESPACES 
+
+CLASSES E INTERFACES SÃO EXEMPLOS DE TIOS
+CAMPOS,MÉTODOS, PROPRIEDADES E EVENSTOS 
+SÃO EXEMPLOS DE MEMBROS.
+
+
+
+
+

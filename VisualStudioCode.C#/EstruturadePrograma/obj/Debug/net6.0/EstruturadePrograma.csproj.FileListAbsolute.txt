@@ -1,0 +1,15 @@
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\EstruturadePrograma.exe
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\EstruturadePrograma.deps.json
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\EstruturadePrograma.runtimeconfig.json
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\EstruturadePrograma.dll
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\ref\EstruturadePrograma.dll
+C:\.NET\EstruturadePrograma\bin\Debug\net6.0\EstruturadePrograma.pdb
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.csproj.AssemblyReference.cache
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.AssemblyInfoInputs.cache
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.AssemblyInfo.cs
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.csproj.CoreCompileInputs.cache
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.dll
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\ref\EstruturadePrograma.dll
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.pdb
+C:\.NET\EstruturadePrograma\obj\Debug\net6.0\EstruturadePrograma.genruntimeconfig.cache
