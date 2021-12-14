@@ -1,0 +1,46 @@
+-- Classes e Objetos -- 
+
+Classes - tipo mais fundamental
+do C#
+Criar objetos
+abstração de algo real; 
+combinação de estado(campos)
+atributos;
+
+ações 
+metodos;
+
+Objetos -> instâncias de uma classe;
+as classes suportam herança e 
+polimorfismo; 
+-estender e especializar as classes bases-
+
+public class Ponto {
+	public int x; y;
+	public Ponto (int x, int y)
+	{
+	this.x = x;
+	this.y = y;
+}
+
+}
+
+instanciar uma classe - criar objeto:
+Ponto p1 = new Ponto(0,0);
+Ponto p2 = new Ponto(10,20); 
+
+A memória ocupada por um objeto é recuperada
+automaticamente// 
+
+Membros
+Estáticos - pertence a classe
+Instancia - pertence ao objeto; 
+Constantes,variaveis metodos  etc...
+
+Cada membro de uma classe tem uma a
+cessibilidade associada, que controla as regioes do texto do 
+programa que podem acessar o membro. 
+
+
+
+
