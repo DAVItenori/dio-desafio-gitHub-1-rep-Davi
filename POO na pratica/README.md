@@ -1,5 +1,5 @@
 ## -PROGRAMAÇÃO ORIENTADA A OBJETOS -- ANOTAÇÕES; 
-### A POO é um dos varios paradigmas que existem no mercado1 
+### A POO é um dos varios paradigmas que existem no mercado.
 
 
 ### -Paradigma de programação: Técnica, metodologia, maneira de fazer.
