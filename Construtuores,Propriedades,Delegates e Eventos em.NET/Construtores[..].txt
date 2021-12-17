@@ -1,0 +1,146 @@
+Construtores,Propriedades,Delegates e Eventos .NET
+
+-CONSTRUTORES: 
+é um metodo especial, para passar valores padrões para
+a classe. Tornar valores obrigatórios.
+Ex:
+Sem valores padrões:
+public Pessoa() 
+{
+
+}  
+
+Com valor obrigatório:
+public void Pessoa (string nome, int idade) {
+	this.nome = nome;
+	this.idade = idade; 
+}
+
+instanciando:
+static void Main (string[] args)
+{
+	Pessoa p1 = new Pessoa();
+	Pessoa p2 = new Pessoa("Leo", "10"); 
+}
+
+-------------------------------------------------------
+
+Para herdar uma classe que tenha construtor com valores obrigatórios. 
+é necessário definir os construtores novamente; 
+
+public class Aluno: Pessoa 
+{
+	public Aluno(string nome,int idade) : base(nome,idade) 
+{
+	
+
+}
+}
+
+-CONSTRUTOR PRIVADO
+Singleton - instanciar uma classe multiplas vezes com o mesmo valor! 
+Chamar a classe com o mesmo valor. 
+
+---------------------------------------------------
+GET - SET: 
+ATRIBUIR VALOR DE UMA MANEIRA CONTROLADA: 
+public class Data {
+
+	private int mes; 
+
+	public int GetMes() 
+{
+		return this.mes;
+
+}
+	public void SetMes(int mes)
+{
+		if(mes > 0 && mes <=12) 
+		{
+			this.mes = mes;
+}
+
+}
+
+
+}
+
+
+public int mes { 
+
+	get 
+	    {
+		return this.mes;
+     	     }
+	set 
+            {
+		if (value >0 & value <=12)
+		this.mes = mes; 
+             } 
+}
+
+SEM O GET E O SET, poderiamos colocar quaisquer valores 
+dentro da variavel mes! 
+
+----------------------------------------------------------------
+READONLY 
+
+- SOMENTE LEITURA. 
+Obj: Bloquear alterações nos campos de sua classe. 
+A não ser na Inicialização ou Dentro do construtor. 
+
+public "readonly" string nome = "Davi"; 
+
+CONSTANTE -
+Valor que pode ser atribuido uma unica vez durante a incialização.
+ 
+const "tipo" "nome" = "x"; 
+
+const double Pi = 3.14; 
+
+-------------------------------------------------------------------
+DELEGATE - Baixo nível
+Referência, passagem de referências. 
+Passar por parametro um metodo que seja por referencia.
+Call Back. 
+
+public class Calculadora 
+{
+	public static void Somar(int num1, int num2)
+{
+	System.ConsoleWriteLine($"Soma = {x + y}")   
+}
+	public static void Subtrair(int num1, int num2) 
+{
+	System.ConsoleWriteLine($"Subtração = {x - y}")
+}
+
+}
+
+------------------------------------------------------
+public delegate void Operacao ( int x, int y );
+
+	static Void Main(String[] args) {
+
+	Operacao op = Calculadora.Somar; 
+	op.Invoke(10,20)
+
+}
+
+MULT CAST DELEGATE ----------------------------------
+EXTENSAO DO DELEGATE.
+CHAMAR VARIOS METODOS EM UMA UNICA CHAMADA. 
+
+
+
+EVENTOS -----------------------------------------------
+mecanismo de comunicação entre objetos. 
+Vai ocorrer uma determinada ação quando outra determinada
+ação ocorrer. 
+
+publisher = quem executao evento
+subscriber = quem escuta esse evento 
+
+Exemplo Site e inscrição.  
+
+
