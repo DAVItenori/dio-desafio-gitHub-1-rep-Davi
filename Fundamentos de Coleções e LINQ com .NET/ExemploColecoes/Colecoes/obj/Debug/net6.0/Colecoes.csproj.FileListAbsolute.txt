@@ -1,0 +1,15 @@
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.AssemblyReference.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfoInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.AssemblyInfo.cs
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.csproj.CoreCompileInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.exe
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.deps.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.runtimeconfig.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\ref\Colecoes.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\bin\Debug\net6.0\Colecoes.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\ref\Colecoes.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Fundamentos de Coleções e LINQ com .NET\ExemploColecoes\Colecoes\obj\Debug\net6.0\Colecoes.genruntimeconfig.cache

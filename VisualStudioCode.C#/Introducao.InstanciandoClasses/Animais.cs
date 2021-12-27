@@ -9,14 +9,12 @@ namespace Global2
 
     }
 
-    class Animal : IAnimal
+    public class Animal: IAnimal 
     {
-        public string nomeAnimal;
-        public int idadeAnimal { get; set; }
-        public string donoAnimal;
-        public string especieAnimal { get; set; }
-
-   
+        private string nomeAnimal {get; set;}
+        private int idadeAnimal { get; set; }
+        private string donoAnimal { get; set; }
+        private string especieAnimal { get; set;}
 
         void IAnimal.nomeAnimal(string nomeAnimal)
         {
@@ -36,6 +34,23 @@ namespace Global2
         {
             this.especieAnimal = especieAnimal;
         }
+    
+
+    public void SelecionarCaracteristicas(string nome, string nomedono, int idade ) 
+    {
+        this.nomeAnimal = nome; 
+        this.donoAnimal = nomedono;
+        this.idadeAnimal = idade;
     }
 
+    public void ImprimirCaracteristicas() 
+    {
+        System.Console.WriteLine(nomeAnimal);
+        System.Console.WriteLine(donoAnimal);
+        System.Console.WriteLine(idadeAnimal);
+
+    }
+
+
+}
 }

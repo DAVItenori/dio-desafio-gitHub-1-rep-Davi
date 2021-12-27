@@ -1,0 +1,15 @@
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.exe
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.deps.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.runtimeconfig.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\ref\DesafiosDIO.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\bin\Debug\net6.0\DesafiosDIO.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.csproj.AssemblyReference.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.AssemblyInfoInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.AssemblyInfo.cs
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.csproj.CoreCompileInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\ref\DesafiosDIO.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\Desafios DIO\DesafiosDIO\obj\Debug\net6.0\DesafiosDIO.genruntimeconfig.cache

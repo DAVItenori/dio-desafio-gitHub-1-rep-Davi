@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+    "C:\\projetoGit\\dio-desafio-gitHub-1-rep-Davi\\VisualStudioCode.C#\\Introducao.InstanciandoClasses\\DigitalInnovationOne.csproj": {}
   },
   "projects": {
-    "C:\\.NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+    "C:\\projetoGit\\dio-desafio-gitHub-1-rep-Davi\\VisualStudioCode.C#\\Introducao.InstanciandoClasses\\DigitalInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectUniqueName": "C:\\projetoGit\\dio-desafio-gitHub-1-rep-Davi\\VisualStudioCode.C#\\Introducao.InstanciandoClasses\\DigitalInnovationOne.csproj",
         "projectName": "DigitalInnovationOne",
-        "projectPath": "C:\\.NET\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectPath": "C:\\projetoGit\\dio-desafio-gitHub-1-rep-Davi\\VisualStudioCode.C#\\Introducao.InstanciandoClasses\\DigitalInnovationOne.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\.NET\\DigitalInnovationOne\\obj\\",
+        "outputPath": "C:\\projetoGit\\dio-desafio-gitHub-1-rep-Davi\\VisualStudioCode.C#\\Introducao.InstanciandoClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,56 @@
+ARRAY [] 
+Armazena valores do mesmo tipo; 
+da para acessar pelo índice! 
+
+int[] array = new int[4]; 
+
+int[] array = new int[] {42, 75, 74, 61}; 
+
+string [] nomes = {"Jan", "Fev"}; 
+
+A capacidade de um array é definida na sua inicialização; 
+
+
+
+1.var elemento = array[0] 
+
+2.array[0] = 42(modificar valor da variável)
+
+
+int [,] array = new int [4,2] 
+4 linhas e duas colunas 
+
+
+Acessar valor: array[1,1] 
+
+Algoritmos de ordenação: 
+Bubble Sort - melhor opção para arrays curtas! 
+
+
+Coleções Específicas 
+Coleções que definem sua própria maneira de trabalhar.
+
+-Queue (Fila) : OBEDECE A ORDEM FIFO(FIRST IN FIRST OUT); 
+-Stack (Pilha): OBEDECE A ORDEM LIFO (LAST IN FIRST OUT);
+
+
+Dicionário: 
+-Tipo de Coleção, 
+Através dele é possivel armazenar uma chave e um valor. 
+Chave de identificação única. 
+Chave - armazenada em HASH. 
+(QUANDO PRECISA RECUPERAR, PASSAR A CHAVE - HASH - 
+BUSCA MAIS PERFOMATICA) ]
+
+DIctionary<string, string> estados = new Dictionary 
+
+OPERAÇÕES LINQ ---- 
+recurso presente desde 2008 
+
+
+Language Integrated Query 
+
+Operações nas coleções de uma maneira padronizada
+utilizando as clausulas mais comuns de consulta. 
+
+

@@ -1,0 +1,94 @@
+Design Patterns com .NET 
+
+Overview 
+RideSharing----(Transporte de passageiros por aplicativo)
+
+Produto da Localiza que 
+Atende aos motoristas.
+Aluguel de carro. 
+
+Stack -- 
+.NET Core // uma engrenagem que
+se liga outras maiores. 
+
+Testes... UNleash K6 
+
+Estresse de Banco REDIS 
+
+Frontend React Flutter Angular
+
+Container Kubernetes HPA, Subir Descer
+
+
+--Introdução Design Patterns 
+
+Praticas e soluções 
+testadas e aprovadas para 
+problemas recorrentes. 
+
+SingleTon :) 
+
+Surgiram da expermimentação e 
+repetição. 
+
+GOF - Gang of FOur 
+
+Criaram a Bíblia sobre o assunto. 
+23 patterns divididos. 
+objetos interagem entre si 
+para formarem um grande objeto.
+
+
+PADRÕES 
+CRIAÇÃO: 
+	CLASS: FACTORY METHOD
+	OBJETO: Abstract Factory
+		Builder
+		Prototype
+		SingleTon *** INSTANCIA UNICA DA CLASSE (ACESSO GLOBAL COMO JÁ VISTO) 
+
+ESTRUTURAL:
+	CLASS: ADAPTER
+	OBJETO: Bridge
+		Composite
+		Decorator
+		Facade (INTERFACE DE SUBSISTEMAS) 
+		Flyweight
+		Proxy 
+		REPOSITORY INCLUIDO ( ISOLAMENTO DA CAMADA DE ACESSO A DADOS) 
+COMPORTAMENTAL:
+	CLASS: INTERPRETER
+		TEMPLATE METHOD
+	OBJETO: Chain of Resp.
+		Command
+		Iterator	
+		Mediator
+		Memento
+		Observer
+		State
+		Strategy
+		Visitor
+
+			
+ADAPTER, FACTORY, OBSERVER,
+STRATEGY,BUILDER,STATE, SINGLETON
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
