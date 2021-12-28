@@ -1,0 +1,15 @@
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ProjetoDio.exe
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ProjetoDio.deps.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ProjetoDio.runtimeconfig.json
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ProjetoDio.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ref\ProjetoDio.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\bin\Debug\net6.0\ProjetoDio.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.csproj.AssemblyReference.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.AssemblyInfoInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.AssemblyInfo.cs
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.csproj.CoreCompileInputs.cache
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ref\ProjetoDio.dll
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.pdb
+C:\projetoGit\dio-desafio-gitHub-1-rep-Davi\PROJETO CRUD\ProjetoDio\obj\Debug\net6.0\ProjetoDio.genruntimeconfig.cache
