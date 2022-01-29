@@ -67,18 +67,18 @@ namespace Interface {
 				public string nomeDono {get; set;} 
 
 
-					void Animal.nome(string nome) {
+					void IAnimal.nome(string nome) {
 						this.nome = nome; 
 }
-						void Animal.Idade (int idade) {
+						void IAnimal.Idade (int idade) {
 							this.idade = idade;
 						
 }
-							void Animal.especie (string especie) {
+							void IAnimal.especie (string especie) {
 								this.especie = especie;			
 }
 
-							void Animal.nomeDono (string nomeDono) {
+							void IAnimal.nomeDono (string nomeDono) {
 								this.nomeDono = nomeDono;
 }	
 }

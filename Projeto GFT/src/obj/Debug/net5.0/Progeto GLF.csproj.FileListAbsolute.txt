@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.exe
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.deps.json
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.runtimeconfig.json
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.dll
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\ref\Progeto GLF.dll
+C:\Users\asus\Desktop\Progeto GLF\src\bin\Debug\net5.0\Progeto GLF.pdb
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.AssemblyInfo.cs
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.dll
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\ref\Progeto GLF.dll
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.pdb
+C:\Users\asus\Desktop\Progeto GLF\src\obj\Debug\net5.0\Progeto GLF.genruntimeconfig.cache
